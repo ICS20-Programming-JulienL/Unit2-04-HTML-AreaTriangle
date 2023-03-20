@@ -14,5 +14,5 @@ function enterClicked() {
 
 
   // display the area to the user
-  document.getElementById('Answer').innerHTML = "The area of the triangle is " +height*base*0.5+"."
+  document.getElementById('Answer').innerHTML = "The area of the triangle is " +height*base*0.5+"cm<sup>2</sup>."
 }
